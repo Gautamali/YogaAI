@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/YogaAI/static/css/main.d2cf5ed3.css",
+    "main.js": "/YogaAI/static/js/main.7e54db64.js",
+    "static/js/592.256642b7.chunk.js": "/YogaAI/static/js/592.256642b7.chunk.js",
+    "static/media/count.wav": "/YogaAI/static/media/count.f89c5fa1380233c226e7.wav",
+    "static/media/yoga_pose.png": "/YogaAI/static/media/yoga_pose.822bc3136b445bde25c7.png",
+    "static/media/tree.jpg": "/YogaAI/static/media/tree.04893f79edff7930610f.jpg",
+    "static/media/shoulderstand.jpg": "/YogaAI/static/media/shoulderstand.784f28f46d8e361149eb.jpg",
+    "static/media/traingle.jpg": "/YogaAI/static/media/traingle.e09c1851d19b5d07cbd2.jpg",
+    "static/media/warrior.jpg": "/YogaAI/static/media/warrior.ad323405cbcf62e55010.jpg",
+    "static/media/cobra.jpg": "/YogaAI/static/media/cobra.fcbccbd9e4833712eb62.jpg",
+    "static/media/dog.jpg": "/YogaAI/static/media/dog.551aeeb36d512e6eabdf.jpg",
+    "static/media/chair.jpg": "/YogaAI/static/media/chair.f10c11b942ffb788fc0d.jpg",
+    "index.html": "/YogaAI/index.html",
+    "main.d2cf5ed3.css.map": "/YogaAI/static/css/main.d2cf5ed3.css.map",
+    "main.7e54db64.js.map": "/YogaAI/static/js/main.7e54db64.js.map",
+    "592.256642b7.chunk.js.map": "/YogaAI/static/js/592.256642b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2cf5ed3.css",
+    "static/js/main.7e54db64.js"
+  ]
+}
